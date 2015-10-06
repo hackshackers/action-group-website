@@ -18,3 +18,6 @@
 ## Contributing
 
 If you'd like to join the action group, [just drop us a note here](https://github.com/hackshackers/action-group-website/issues/1).
+
+## Wiki
+https://github.com/hackshackers/action-group-website/wiki
