@@ -5,7 +5,7 @@
 ## Meeting notes
 
 * [2015-09-22](/meeting-notes/2015-09-22.md)
-* 
+* [2015-10-19](/meeting-notes/2015-10-19.md)
 
 ## Current Action Group Members
 
