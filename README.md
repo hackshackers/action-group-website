@@ -11,6 +11,7 @@
 
 * Matt Carrol
 * Michael Pereira
+* Peter MacRobert
 * Phillip Smith
 * Misha Vinokur
 * Thomas Wilburn
